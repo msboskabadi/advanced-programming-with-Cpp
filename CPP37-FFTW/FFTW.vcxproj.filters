@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="FFTDoc.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="FFTView.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="FFT.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="FFT.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="FFTDoc.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="FFTView.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\buttons.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\FFT.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\FFT.rc2">
+      <Filter>res</Filter>
+    </None>
+    <None Include="FFT.reg">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\FFTDoc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\filelarge.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\filesmall.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\main.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\writelarge.bmp">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\writesmall.bmp">
+      <Filter>res</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{e7aa2cd7-fd59-4bca-a515-6af985e19562}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="h">
+      <UniqueIdentifier>{d448f0d7-3c8b-4159-b313-3cbb58d4b93d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res">
+      <UniqueIdentifier>{bbda2c21-0b15-4ef5-b8fc-2705ba31eeaf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="FFT.rc">
+      <Filter>res</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

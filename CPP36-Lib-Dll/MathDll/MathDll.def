@@ -1,0 +1,6 @@
+LIBRARY      "MathDll"
+
+EXPORTS
+	maxVal		@1
+	mean		@2
+	load_image	@3

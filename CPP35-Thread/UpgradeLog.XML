@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MultiCoreTest">
+</Property><Property Name="Solution File" Value="F:\Projects\VC 2010\MultiCore\MultiCoreTest.sln">
+</Property><Property Name="Date" Value="Tuesday, December 13, 2011">
+</Property><Property Name="Time" Value="10:29 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MultiCoreTest.sln" Description="File successfully backed up as F:\Projects\VC 2010\MultiCore\MultiCoreTest.sln.old">
+</Event><Event ErrorLevel="0" Project="MultiCoreTest" Source="MultiCoreTest.vcproj" Description="Converting project file 'F:\Projects\VC 2010\MultiCore\MultiCoreTest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="MultiCoreTest" Source="MultiCoreTest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="MultiCoreTest" Source="MultiCoreTest.vcproj" Description="Done converting to new project file 'F:\Projects\VC 2010\MultiCore\MultiCoreTest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="MultiCoreTest" Source="MultiCoreTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MultiCoreTest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MultiCoreTest.sln" Description="Converted">
+</Event></UpgradeLog>
